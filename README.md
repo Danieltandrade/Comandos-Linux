@@ -25,6 +25,7 @@ O Linux é um sistema operacional de código aberto criado por Linus Torvalds em
 - **2014**: Docker populariza o uso de contêineres, com o Linux como base para sua tecnologia.
 - **2020**: Kubernetes, uma ferramenta de orquestração de contêineres baseada em Linux, se torna o padrão da indústria.
 - **2025**: O Linux continua a evoluir, sendo amplamente utilizado em inteligência artificial, computação em nuvem e dispositivos IoT.
+
 ---
 
 ## A Linux Foundation
@@ -34,6 +35,7 @@ A Linux Foundation, criada em 2000, é uma organização sem fins lucrativos ded
 A fundação também organiza eventos, como o Open Source Summit, e oferece treinamentos e certificações para profissionais de TI. Sua missão é garantir que o Linux continue sendo uma plataforma aberta, segura e inovadora para empresas e desenvolvedores em todo o mundo.
 
 Com o apoio da Linux Foundation, o Linux se consolidou como uma peça fundamental na infraestrutura tecnológica global, sendo utilizado em servidores, supercomputadores, dispositivos móveis e até mesmo em carros autônomos.
+
 ---
 
 ## Principais Usos do Linux
@@ -43,6 +45,7 @@ Com o apoio da Linux Foundation, o Linux se consolidou como uma peça fundamenta
 - **Sistemas Embarcados**: Utilizado em dispositivos como roteadores e TVs inteligentes.
 - **Desktop**: Alternativa ao Windows e macOS.
 - **Computação em Nuvem**: Base para muitas plataformas de nuvem.
+
 ---
 
 ## Principais Distribuições Linux
